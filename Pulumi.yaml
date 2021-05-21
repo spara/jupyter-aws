@@ -1,0 +1,6 @@
+name: jupyter-aws
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Deploying Jupyter on AWS
